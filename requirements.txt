@@ -1,0 +1,7 @@
+line-bot-sdk
+flask
+bs4
+selenium
+requests
+lxml
+psycopg2
